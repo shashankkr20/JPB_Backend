@@ -2,7 +2,7 @@
 
 Welcome to the Job Posting Website Backend! This application serves as the backend for the job posting platform, providing APIs for user authentication, job postings, and candidate notifications.
 ##  Live Link
-You can find the project repository [here](https://jpb-frontendnew.onrender.com/).
+The Project is Deployed [here](https://jpb-frontendnew.onrender.com/).
 ## Features
 
 - **User Authentication**: 
