@@ -12,7 +12,7 @@ dotenv.config();
 const app = express();
 const PORT = process.env.PORT || 5000;
 const corsOptions = {
-    origin: 'https://jpb-frontend.vercel.app/', 
+    origin: 'https://jpb-frontendnew.onrender.com/', 'http://localhost:3000',
     methods: ['GET', 'POST', 'PUT', 'DELETE'], 
     credentials: true 
   };
