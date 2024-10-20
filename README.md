@@ -30,7 +30,7 @@ Welcome to the Job Posting Website Backend! This application serves as the backe
 
 To install and run the backend locally, follow these steps:
 
-
+```bash
 1. Clone the repository:
    git clone https://github.com/shashankkr20/JPB_Backend.git
 
